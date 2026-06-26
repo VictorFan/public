@@ -1,0 +1,28 @@
+{
+  "name": "test-data",
+  "description": "Sample JSON file for testing",
+  "version": "1.0.0",
+  "active": true,
+  "count": 42,
+  "tags": ["sample", "test", "json", "測試 🧪", "範例 ✨"],
+  "i18n": {
+    "simplifiedChinese": "测试文件，简体中文",
+    "traditionalChinese": "測試文件，繁體中文，歡迎使用",
+    "japanese": "日本語のテスト",
+    "emoji": "🎉 🚀 🐉 🧧 ✅ ❤️ 🌏 👍 😀 🔥 🎊 🀄"
+  },
+  "nested": {
+    "level1": {
+      "level2": {
+        "value": "deeply nested"
+      }
+    }
+  },
+  "items": [
+    { "id": 1, "name": "Alice", "role": "Engineer" },
+    { "id": 2, "name": "Bob", "role": "Designer" },
+    { "id": 3, "name": "Carol", "role": "Manager" },
+    { "id": 4, "name": "小明 🐉", "role": "工程師 🧧" }
+  ],
+  "nullable": null
+}

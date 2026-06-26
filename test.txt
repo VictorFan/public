@@ -1,0 +1,21 @@
+Test Plain Text File
+====================
+
+This is a simple plain text file used for testing.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat.
+
+Line 1
+Line 2
+Line 3
+
+Special characters: ! @ # $ % ^ & * ( ) _ + - = [ ] { } | ; : ' " , . / ? ~ `
+Unicode: café, naïve, résumé, 日本語, emoji 🎉
+Simplified Chinese: 测试文件，简体中文
+Traditional Chinese: 測試文件，繁體中文，歡迎
+Emoji: 🎉 🚀 🐉 🧧 ✅ ❤️ 🌏 👍 😀 🔥 🎊 🀄
+
+End of file.
